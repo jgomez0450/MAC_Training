@@ -86,8 +86,6 @@
             android:text="ANDROID"
             android:textColor="@color/colorPrimary"
             android:textStyle="bold"/>
-
-
     </FrameLayout>
 
 </LinearLayout>
